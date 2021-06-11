@@ -5,7 +5,7 @@ A Simple Contact/Message API
 
 
 ## Technology Used
-1. Java 8 - Spring Boot
+1. Java 8 - Spring Boot 2.5.0
 2. Maven 3.8.1
 3. Docker
 4. PostgreSQL
