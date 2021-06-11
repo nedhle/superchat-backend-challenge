@@ -20,9 +20,9 @@ docker-compose up
 
 ## Api Endpoints
 
-Http GET endpoints:
+Http GET Endpoints:
 1. http://localhost:8080/api/contacts
-Gets all Contacts
+Gets all contacts
 
 
 2. http://localhost:8080/api/message
@@ -30,7 +30,7 @@ Gets all conversations
 
 
 
-Http POST endpoints:
+Http POST Endpoints:
 1. http://localhost:8080/api/contacts
 With the following JSON in the body:
 
