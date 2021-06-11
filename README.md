@@ -4,13 +4,13 @@ A Simple Contact/Message API
 
 
 
-## Technology used
+## Technology Used
 1. Java 8 - Spring Boot
 2. Maven 3.8.1
 3. Docker
 4. PostgreSQL
 
-## Running instructions
+## Running Instructions
 
  From the root folder of the application run:
 ``` 
@@ -18,7 +18,7 @@ docker-compose up
 ``` 
 
 
-## Api endpoints
+## Api Endpoints
 
 Http GET endpoints:
 1. http://localhost:8080/api/contacts
@@ -61,7 +61,7 @@ ${btc.usd}
 ${btc.eur}
 ${btc.gbp}
 ``` 
-## Features not implemented
+## Features Not Implemented
 1. Send message with sms etc.(Now just send email).
 
 2. Can be implemented using JWT.
