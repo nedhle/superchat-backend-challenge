@@ -42,6 +42,7 @@ Creates new contacts.
 	"telNo":"x_tel_no",
 }
 ``` 
+2. http://localhost:8080/api/message
 Send message.
 e.g.
 ``` 
