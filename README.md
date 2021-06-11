@@ -46,8 +46,8 @@ Send message.
 e.g.
 ``` 
 {
-    "message": "Dear ${contact.name} This is the bitcoin price ${btc.usd}",
-    "recevier_ids": [1,2]
+   "message": "Dear ${contact.name} This is the bitcoin price ${btc.usd}",
+   "recevier_ids": [1,2]
 }
 ``` 
 
