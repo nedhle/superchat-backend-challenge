@@ -14,6 +14,7 @@ A Simple Contact/Message API
 
  From the root folder of the application run:
 ``` 
+mvn clean package -Dmaven.test.skip=true
 docker-compose up
 ``` 
 
